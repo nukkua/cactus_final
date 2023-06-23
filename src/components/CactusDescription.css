@@ -1,0 +1,15 @@
+.cactusdescription-container {
+  margin-left: 0px;
+  display: flex;
+  flex-direction: row;
+  width: 530.1531372070312px;
+  height: 100px;
+  background-color: white;
+}
+.cactusdescription-container .cactus-describe {
+  display: flex;
+  flex-direction: column;
+}
+h2 {
+  margin-left: 100px;
+}

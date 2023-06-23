@@ -1,0 +1,13 @@
+.review-container{
+    margin-left: 30px;
+    display: flex;
+    width: 259.61px;
+    height: 44.07px;
+}
+.review-container img{
+    width: 44.97px;
+    height: 44.97px;
+}
+.review-container span{
+    margin-top: 8px;
+}
